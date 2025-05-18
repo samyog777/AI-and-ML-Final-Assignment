@@ -1,0 +1,24 @@
+
+
+CNN
+--> Preprocessing 
+--> Baseline 
+--> Deeper CNN with adam
+--> Deeper CNN with sgd
+--> transfer learning
+--> transfer learning with fine tuning
+
+RNN
+--> Preprocessing
+--> Baseline RNN
+--> LSTM
+--> LSTM + Word2Vec
+
+ 
+    -- Samyog Koirala ==> Data Collection, preprocessing and cleaning, transfer learning, transfer learning with fine tuning
+    -- Bisekh Karki ==> LSTM + Word2Vec, BaseLine CNN
+    -- Tul Bikram Basnet ==>  Deeper CNN with adam, Deeper CNN with SGD
+    -- Prashun Lama ==> Preprocessing, cleaning, Tokenization and padding of RNN, Baseline RNN model 
+    -- Rodit Nepal ==> LSTM
+
+
